@@ -1,6 +1,6 @@
 # Hi, I'm Mofolorunsho Adeleke
 
-Incoming Penn State freshman — B.S. Cybersecurity Analytics and Operations (2026–2030)
+Incoming Penn State freshman : B.S. Cybersecurity Analytics and Operations (2026–2030)
 
 ## Focus Areas
 - Digital Forensics & Malware Analysis
