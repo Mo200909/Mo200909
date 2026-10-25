@@ -1,6 +1,6 @@
 # Mofolorunsho (Mo) Adeleke
 
-Penn State freshman, B.S. Cybersecurity Analytics and Operations (2026–2030).
+Penn State freshman, B.S. in Cybersecurity Analytics and Operations (2026–2030).
 Targeting SOC analyst roles, then detection engineering and incident response.
 
 ## Focus Areas
@@ -9,8 +9,8 @@ Targeting SOC analyst roles, then detection engineering and incident response.
 - Active Directory and Windows security
 
 ## Featured Work
+## Featured Work
 - **AI SOC Alert Triage System**: 17 ATT&CK regex rules plus Qwen3 8B. On 15 synthetic alerts: 14/15 classification, 12/15 severity. LLM output was identical to rules-only (no measured gain). 3 of 5 prompt-injection tests defended.
-- **Log Correlation Agent**: groups alerts by IP and time to flag attack chains. 9/10 on 10 synthetic scenarios.
 - **Network Traffic Forensics Lab**: analyzed a DNS Iodine tunnel PCAP; identified C2 in encoded subdomain queries.
 - **Office Malware Forensics Lab**: static analysis of 2 malicious Office files in an isolated REMnux VM; one matched CVE-2017-11882, the other was inconclusive.
 - **Active Directory Home Lab**: Windows Server 2022 domain with GPO lockout policy; validated SMB authentication and signing with NetExec.
