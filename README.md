@@ -1,7 +1,7 @@
 # Mofolorunsho (Mo) Adeleke
 
 Penn State freshman, B.S. in Cybersecurity Analytics and Operations (2026–2030).
-Targeting SOC analyst roles, then detection engineering and incident response.
+
 
 ## Focus Areas
 - Detection and alert triage (MITRE ATT&CK, regex rules, local LLM evaluation)
